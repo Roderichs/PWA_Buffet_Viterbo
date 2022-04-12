@@ -1,0 +1,18 @@
+CRITICAL - 2022-04-06 09:15:25 --> Invalid file: backend/comentarios/listar3.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 09:23:15 --> Invalid file: backend/comentarios/listar3.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

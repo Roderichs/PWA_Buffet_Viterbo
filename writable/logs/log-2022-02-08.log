@@ -1,0 +1,106 @@
+CRITICAL - 2022-02-08 17:22:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:23:03 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:23:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:23:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:24:02 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:25:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:28:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:28:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:31:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 17:31:34 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-08 13:07:31 --> Undefined variable $header
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\platillos\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 1)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/crear', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Platillos.php(27): view('platillos/crear')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Platillos->crear()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Platillos))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 15:18:37 --> unlink(../public/uploads1644354162_c456deff61320ee14a23.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\xampp\\htdocs...', 56)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Platillos.php(56): unlink('../public/uploa...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Platillos->borrar('3')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Platillos))
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-08 15:22:33 --> unlink(../public/uploads/Camarones): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\xampp\\htdocs...', 55)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Platillos.php(55): unlink('../public/uploa...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Platillos->borrar('2')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Platillos))
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-08 17:19:34 --> Undefined variable $platillos
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\platillos\editar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/edita...', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Platillos.php(62): view('platillos/edita...', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Platillos->editar('5')
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Platillos))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 18:32:43 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Platillos.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1644366763_6c9b...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Platillos->guardar()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Platillos))
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

@@ -1,0 +1,131 @@
+CRITICAL - 2022-02-10 11:07:27 --> Undefined property: App\Controllers\Auth::$validation
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Auth.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 114)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Auth->check()
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 12:26:05 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 12:28:05 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 12:29:00 --> Undefined variable $userInfo
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 13:06:04 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 13:21:43 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\profile.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/profil...', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(27): view('back-end/profil...', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->profile()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 13:21:47 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 13:28:10 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 13:30:43 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\back-end\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/index', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Dashboard.php(16): view('back-end/index', Array)
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 14:47:46 --> Invalid file: platillos/listar.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('platillos/lista...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/lista...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Home.php(9): view('platillos/lista...')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 14:47:56 --> Invalid file: platillos/listar.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('platillos/lista...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/lista...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Home.php(9): view('platillos/lista...')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 14:48:00 --> Invalid file: platillos/listar.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('platillos/lista...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/lista...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Home.php(9): view('platillos/lista...')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 14:48:05 --> Invalid file: platillos/listar.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('platillos/lista...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('platillos/lista...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Home.php(9): view('platillos/lista...')
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

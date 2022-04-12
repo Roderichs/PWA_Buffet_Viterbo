@@ -1,0 +1,440 @@
+CRITICAL - 2022-04-05 15:07:33 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 15:15:46 --> Undefined variable $platillos
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\homes.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 194)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('homes', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Base.php(9): view('homes')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Base->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Base))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-05 15:16:43 --> Undefined variable $platillo
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\homes.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 194)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('homes', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Base.php(9): view('homes')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Base->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Base))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-05 15:18:44 --> Undefined variable $platillo
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\homes.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 194)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('homes', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Base.php(9): view('homes')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Base->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Base))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-05 15:20:13 --> Undefined variable $platillos
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\app\Views\homes.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 194)
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('homes', Array, true)
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Base.php(9): view('homes')
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Base->index()
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Base))
+#7 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-05 15:58:38 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 15:58:40 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:05:14 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:05:31 --> Invalid file: back-end/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back-end/coment...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('back-end/coment...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('back-end/coment...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:21:21 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:21:25 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:30:03 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(14): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:43:10 --> Invalid file: comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('comentarios/lis...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('comentarios/lis...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('comentarios/lis...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:43:43 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:45:49 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:45:50 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:45:51 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:48:15 --> Invalid file: /backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/backend/coment...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('/backend/coment...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('/backend/coment...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:48:40 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:58:55 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:58:57 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:58:57 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 16:59:24 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:06:08 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:33:35 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:37:07 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:37:17 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:37:19 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:37:20 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:09 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:10 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:11 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:11 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:11 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:37 --> Invalid file: backend/Comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/Comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/Comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/Comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:39 --> Invalid file: backend/Comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/Comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/Comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/Comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:40 --> Invalid file: backend/Comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/Comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/Comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/Comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:38:40 --> Invalid file: backend/Comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/Comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/Comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/Comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:40:54 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(13): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:42:46 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:42:47 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:42:47 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:42:47 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->indexCC()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:45:26 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:45:27 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:45:28 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:45:28 --> Invalid file: backend/comentarios/listarC.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 17:49:48 --> Invalid file: backend/comentarios/listar3.php
+#0 C:\xampp\htdocs\pwa_buffet_viterbo\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/comenta...')
+#1 C:\xampp\htdocs\pwa_buffet_viterbo\system\Common.php(1089): CodeIgniter\View\View->render('backend/comenta...', Array, true)
+#2 C:\xampp\htdocs\pwa_buffet_viterbo\app\Controllers\Comentarios.php(15): view('backend/comenta...', Array)
+#3 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(825): App\Controllers\Comentarios->index2()
+#4 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comentarios))
+#5 C:\xampp\htdocs\pwa_buffet_viterbo\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pwa_buffet_viterbo\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
